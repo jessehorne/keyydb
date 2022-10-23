@@ -5,6 +5,12 @@ A very simple and embeddable key value store for Go.
 
 **WARNING: You shouldn't use this for anything important!**
 
+# Installation
+```sh
+go get github.com/jessehorne/keyydb
+```
+
+
 # Usage
 
 There are currently 5 supported types of data that you can store.
